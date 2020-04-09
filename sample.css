@@ -1,0 +1,101 @@
+li{
+ list-style:none;
+}
+
+h2{ margin:20px;
+        }
+
+.body{
+ text-align:center;
+}
+
+
+.header {
+  position:fixed;
+  top:0;
+  left:0;
+ rigft:0;
+}
+
+.body {
+  margin-top: 100px;
+}
+
+
+.header{
+ background-color:#26d0c9;
+ color:#fff;
+ width:2050px;
+ height:90px; 
+}
+
+
+.header-logo{
+ float:left;
+ font-size:36px;
+ padding:20px 50px;
+}
+
+.header-list{
+ float:left;
+}
+
+.header-list li{
+ float:left;
+ padding:15px 30px;
+}
+
+h2{ margin-top:30px; }
+
+h3{ margin-left:150px; 
+  padding: 10px;/*文字周りの余白*/
+  background: #D9E5FF;/*背景色*/
+  border-left: solid 5px #5D99FF;/*左線（実線 太さ 色）*/
+}
+ 
+h4{ text-align:center; }
+
+img{ width: auto;
+     max-height: 300px;
+      margin:20px 850px;}
+
+.copy-container h1{
+  float:center;
+}
+
+.copy-container h2{
+  float:center;
+}
+
+a.anchor{
+ display:block;
+ padding-top:100px;
+ margin-top:-100px;
+}
+
+.inner{
+  width: 80%;
+  margin: 0 auto;
+  max-width: 500px;
+}
+
+.resizeimage img { width: 100%; }
+
+
+p{ text-align:center;
+   }
+
+.main{ float:center; }
+
+p.sample1 {text-align:center; }
+
+a.anchor{
+   top: -200px;
+   display: block;
+}
+
+.appIconBig{
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+}
